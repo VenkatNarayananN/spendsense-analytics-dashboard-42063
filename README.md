@@ -1,1 +1,3 @@
-# spendsense-analytics-dashboard-42063
+# Project Repository
+
+This is the initial README file for the project.
